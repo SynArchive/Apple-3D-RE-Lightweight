@@ -6,6 +6,12 @@ Currently works on:
 
 * MacOS Big Sur w/ Go 1.15.15
 
+## Next Features
+
+* Linux Support (again)
+* Windows 10 Support
+* Location Earth Rotation Model Fix
+
 ## Dependencies
 
 * Node
