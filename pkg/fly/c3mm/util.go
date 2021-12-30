@@ -1,6 +1,6 @@
 package c3mm
 
-import "github.com/retroplasma/flyover-reverse-engineering/pkg/bin"
+import "github.com/SynArchive/flyover-re-fixed/pkg/bin"
 
 // GetPartNumber finds the part number for octant data access
 func (fi FileIndex) GetPartNumber(octantOffset int) int {

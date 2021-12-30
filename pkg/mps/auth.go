@@ -1,7 +1,7 @@
 package mps
 
 import (
-	"github.com/retroplasma/flyover-reverse-engineering/pkg/mps/auth"
+	"github.com/SynArchive/flyover-re-fixed/pkg/mps/auth"
 )
 
 // Session has the session ID for AuthURL

@@ -1,6 +1,6 @@
 # flyover-re-fixed
 
-A fixed repository for the archived repo by [retroplasma](https://github.com/retroplasma/flyover-reverse-engineering)
+A fixed repository for the archived repo by [retroplasma](https://github.com/SynArchive/flyover-re-fixed)
 
 Currently works on:
 
@@ -22,9 +22,9 @@ Currently works on:
 ## Installation
 
 ```bash
-go get -d github.com/retroplasma/flyover-reverse-engineering/...
+go get -d github.com/SynArchive/flyover-re-fixed/...
 
-cd "$(go env GOPATH)/src/github.com/retroplasma/flyover-reverse-engineering"
+cd "$(go env GOPATH)/src/github.com/SynArchive/flyover-re-fixed"
 
 ./scripts/get_config.sh > config.json
 

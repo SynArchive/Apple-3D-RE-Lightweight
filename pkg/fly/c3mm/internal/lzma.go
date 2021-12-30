@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/retroplasma/flyover-reverse-engineering/pkg/bin"
+	"github.com/SynArchive/flyover-re-fixed/pkg/bin"
 	"github.com/ulikunitz/xz/lzma"
 )
 

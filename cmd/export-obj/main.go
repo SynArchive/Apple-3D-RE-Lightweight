@@ -13,15 +13,15 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/retroplasma/flyover-reverse-engineering/pkg/fly"
-	"github.com/retroplasma/flyover-reverse-engineering/pkg/fly/c3m"
-	"github.com/retroplasma/flyover-reverse-engineering/pkg/fly/c3mm"
-	"github.com/retroplasma/flyover-reverse-engineering/pkg/fly/exp"
-	"github.com/retroplasma/flyover-reverse-engineering/pkg/mps"
-	"github.com/retroplasma/flyover-reverse-engineering/pkg/mps/config"
-	"github.com/retroplasma/flyover-reverse-engineering/pkg/mth"
-	"github.com/retroplasma/flyover-reverse-engineering/pkg/oth"
-	"github.com/retroplasma/flyover-reverse-engineering/pkg/web"
+	"github.com/SynArchive/flyover-re-fixed/pkg/fly"
+	"github.com/SynArchive/flyover-re-fixed/pkg/fly/c3m"
+	"github.com/SynArchive/flyover-re-fixed/pkg/fly/c3mm"
+	"github.com/SynArchive/flyover-re-fixed/pkg/fly/exp"
+	"github.com/SynArchive/flyover-re-fixed/pkg/mps"
+	"github.com/SynArchive/flyover-re-fixed/pkg/mps/config"
+	"github.com/SynArchive/flyover-re-fixed/pkg/mth"
+	"github.com/SynArchive/flyover-re-fixed/pkg/oth"
+	"github.com/SynArchive/flyover-re-fixed/pkg/web"
 )
 
 var l = log.New(os.Stderr, "", 0)

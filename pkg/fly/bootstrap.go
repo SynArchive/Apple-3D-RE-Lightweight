@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"os/user"
 
-	"github.com/retroplasma/flyover-reverse-engineering/pkg/mps"
+	"github.com/SynArchive/flyover-re-fixed/pkg/mps"
 )
 
 type AltitudeManifest struct {

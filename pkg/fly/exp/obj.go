@@ -9,8 +9,8 @@ import (
 	"path"
 	"runtime/debug"
 
-	"github.com/retroplasma/flyover-reverse-engineering/pkg/fly/c3m"
-	"github.com/retroplasma/flyover-reverse-engineering/pkg/oth"
+	"github.com/SynArchive/flyover-re-fixed/pkg/fly/c3m"
+	"github.com/SynArchive/flyover-re-fixed/pkg/oth"
 )
 
 var transform = true

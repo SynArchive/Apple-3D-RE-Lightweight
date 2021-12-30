@@ -6,8 +6,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/retroplasma/flyover-reverse-engineering/pkg/fly/c3m"
-	"github.com/retroplasma/flyover-reverse-engineering/pkg/oth"
+	"github.com/SynArchive/flyover-re-fixed/pkg/fly/c3m"
+	"github.com/SynArchive/flyover-re-fixed/pkg/oth"
 )
 
 var l = log.New(os.Stderr, "", 0)

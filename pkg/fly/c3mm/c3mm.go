@@ -9,8 +9,8 @@ import (
 	"runtime/debug"
 	"sort"
 
-	"github.com/retroplasma/flyover-reverse-engineering/pkg/bin"
-	"github.com/retroplasma/flyover-reverse-engineering/pkg/fly/c3mm/internal"
+	"github.com/SynArchive/flyover-re-fixed/pkg/bin"
+	"github.com/SynArchive/flyover-re-fixed/pkg/fly/c3mm/internal"
 )
 
 var l = log.New(os.Stderr, "", 0)
