@@ -2,15 +2,10 @@
 
 A fixed repository for the archived repo by [retroplasma](https://github.com/SynArchive/flyover-re-fixed)
 
-Currently works on:
+## Improvements
 
-* MacOS Big Sur w/ Go 1.15.15
-
-## Next Features
-
-* Linux Support (again)
-* Windows 10 Support
-* Location Earth Rotation Model Fix
+* It now is cross-platform, so works on windows
+* No big script downloads, all dependencies included
 
 ## Dependencies
 
