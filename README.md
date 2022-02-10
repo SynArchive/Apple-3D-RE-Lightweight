@@ -1,6 +1,6 @@
-# flyover-re-fixed
+# Apple 3D Reverse Engineering (Lightweight)
 
-A fixed repository for the archived repo by [retroplasma](https://github.com/SynArchive/flyover-re-fixed)
+A fixed repository for the archived repo by [retroplasma](https://github.com/retroplasma/flyover-reverse-engineering)
 
 ## Improvements
 
